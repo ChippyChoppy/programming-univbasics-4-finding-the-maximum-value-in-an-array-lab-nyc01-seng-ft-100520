@@ -1,3 +1,4 @@
 def find_max_value(array)
-  # Add your solution here
+  (1..5).to_a 
+  array.max 
 end
