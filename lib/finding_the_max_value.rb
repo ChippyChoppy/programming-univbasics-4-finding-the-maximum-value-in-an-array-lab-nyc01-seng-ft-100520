@@ -1,5 +1,5 @@
 def find_max_value(array)
- (..).to_a 
+ (1..5).to_a 
  array.max 
 end
  
